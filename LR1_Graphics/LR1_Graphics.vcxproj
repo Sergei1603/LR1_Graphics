@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="LR1_Graphics.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Math_3d.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
